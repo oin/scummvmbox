@@ -1,0 +1,4854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>5ld</string>
+		<key>title</key>
+		<string>Five Lethal Demons</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>5ma</string>
+		<key>title</key>
+		<string>Five Magical Amulets</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>groovie</string>
+		<key>identifier</key>
+		<string>11h</string>
+		<key>title</key>
+		<string>The 11th Hour: The Sequel to The 7th Guest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>abracadabra</string>
+		<key>title</key>
+		<string>Once Upon A Time: Abracadabra</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>activity</string>
+		<key>title</key>
+		<string>Putt-Putt and Fatty Bear's Activity Pack</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>actualdest</string>
+		<key>title</key>
+		<string>Actual Destination</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>adi2</string>
+		<key>title</key>
+		<string>ADI 2</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>adi4</string>
+		<key>title</key>
+		<string>ADI 4</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>adibou1</string>
+		<key>title</key>
+		<string>Adibou 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>adibou2</string>
+		<key>title</key>
+		<string>Adibou 2</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>adrift</string>
+		<key>title</key>
+		<string>ADRIFT Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>advsys</string>
+		<key>title</key>
+		<string>AdvSys Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>afm</string>
+		<key>title</key>
+		<string>Another Fine Mess</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>agi</string>
+		<key>title</key>
+		<string>Sierra AGI game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>agi-fanmade</string>
+		<key>title</key>
+		<string>Fanmade AGI game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>agidemo</string>
+		<key>title</key>
+		<string>AGI Demo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>ags</string>
+		<key>title</key>
+		<string>Adventure Game Studio games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>agt</string>
+		<key>title</key>
+		<string>AGT Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>agustin</string>
+		<key>title</key>
+		<string>Boredom of Agustin Cordes</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>airport</string>
+		<key>title</key>
+		<string>Let's Explore the Airport with Buzzy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>ajworld</string>
+		<key>title</key>
+		<string>A.J.'s World of Discovery</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>alan</string>
+		<key>title</key>
+		<string>Alan 2 &amp; 3 Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>alimardan1</string>
+		<key>title</key>
+		<string>Alimardan's Mischiefs</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>alimardan2</string>
+		<key>title</key>
+		<string>Alimardan Meets Merlin</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>alphapolaris</string>
+		<key>title</key>
+		<string>Alpha Polaris</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>access</string>
+		<key>identifier</key>
+		<string>amazon</string>
+		<key>title</key>
+		<string>Amazon: Guardians of Eden</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>amber</string>
+		<key>title</key>
+		<string>AMBER: Journeys Beyond</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>amot</string>
+		<key>title</key>
+		<string>A Mess O' Trouble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>apeiron</string>
+		<key>title</key>
+		<string>Apeiron</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>archetype</string>
+		<key>title</key>
+		<string>Archetype Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>arthur</string>
+		<key>title</key>
+		<string>Marc Brown's Arthur's Teacher Trouble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>arthurbday</string>
+		<key>title</key>
+		<string>Arthur's Birthday</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>arthurcomp</string>
+		<key>title</key>
+		<string>Arthur's Computer Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>arthurrace</string>
+		<key>title</key>
+		<string>Arthur's Reading Race</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>artofmurder1</string>
+		<key>title</key>
+		<string>Art of Murder: FBI Confidential</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>arttime</string>
+		<key>title</key>
+		<string>Blue's Clues: Blue's Art Time Activities</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>astrochicken</string>
+		<key>title</key>
+		<string>Astro Chicken</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>atlantis</string>
+		<key>title</key>
+		<string>Indiana Jones and the Fate of Atlantis</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>avalanche</string>
+		<key>identifier</key>
+		<string>avalanche</string>
+		<key>title</key>
+		<string>Lord Avalot d'Argent</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>babayaga</string>
+		<key>title</key>
+		<string>Magic Tales: Baba Yaga and the Magic Geese</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>babayagaonce</string>
+		<key>title</key>
+		<string>Once Upon A Time: Baba Yaga</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>balloon</string>
+		<key>title</key>
+		<string>Putt-Putt and Pep's Balloon-O-Rama</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>bambou</string>
+		<key>title</key>
+		<string>Playtoons Limited Edition - Bambou le sauveur de la jungle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>bargon</string>
+		<key>title</key>
+		<string>Bargon Attack</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>barrowhilldp</string>
+		<key>title</key>
+		<string>Barrow Hill: The Dark Path</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>baseball</string>
+		<key>title</key>
+		<string>Backyard Baseball</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>baseball2001</string>
+		<key>title</key>
+		<string>Backyard Baseball 2001</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>baseball2003</string>
+		<key>title</key>
+		<string>Backyard Baseball 2003</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>basisoctavus</string>
+		<key>title</key>
+		<string>Basis Octavus</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>basketball</string>
+		<key>title</key>
+		<string>Backyard Basketball</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>illusions</string>
+		<key>identifier</key>
+		<string>bbdou</string>
+		<key>title</key>
+		<string>MTV's Beavis and Butt-Head Do U.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>bbvs</string>
+		<key>identifier</key>
+		<string>bbvs</string>
+		<key>title</key>
+		<string>MTV's Beavis and Butt-Head in Virtual Stupidity</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>bc</string>
+		<key>title</key>
+		<string>The Black Cauldron</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>beardark</string>
+		<key>title</key>
+		<string>The Berenstain Bears In The Dark</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>bearfight</string>
+		<key>title</key>
+		<string>The Berenstain Bears Get in a Fight</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>bickadoodle</string>
+		<key>title</key>
+		<string>Bickadoodle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>bladerunner</string>
+		<key>identifier</key>
+		<string>bladerunner</string>
+		<key>title</key>
+		<string>Blade Runner</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>bladerunner</string>
+		<key>identifier</key>
+		<string>bladerunner-final</string>
+		<key>title</key>
+		<string>Blade Runner with restored content</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tsage</string>
+		<key>identifier</key>
+		<string>blueforce</string>
+		<key>title</key>
+		<string>Blue Force</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>blues123time</string>
+		<key>title</key>
+		<string>Blue's 123 Time Activities</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>bluesabctime</string>
+		<key>title</key>
+		<string>Blue's ABC Time Activities</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>bluesbirthday</string>
+		<key>title</key>
+		<string>Blue's Clues: Blue's Birthday Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>bluestreasurehunt</string>
+		<key>title</key>
+		<string>Blue's Treasure Hunt</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>bookofgron</string>
+		<key>title</key>
+		<string>Book of Gron Part One</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>parallaction</string>
+		<key>identifier</key>
+		<string>bra</string>
+		<key>title</key>
+		<string>The Big Red Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>brstorm</string>
+		<key>title</key>
+		<string>Bear Stormin'</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>bthreshold</string>
+		<key>title</key>
+		<string>Beyond the Threshold</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>buried</string>
+		<key>identifier</key>
+		<string>buried</string>
+		<key>title</key>
+		<string>The Journeyman Project 2: Buried in Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>caitlyn</string>
+		<key>title</key>
+		<string>Caitlyn's Destiny</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>camelot</string>
+		<key>title</key>
+		<string>Conquests of Camelot: The Search for the Grail</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>cantitoe</string>
+		<key>title</key>
+		<string>Camp Cantitoe</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>carmentq</string>
+		<key>title</key>
+		<string>Carmen Sandiego's ThinkQuick Challenge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>carmentqc</string>
+		<key>title</key>
+		<string>Carmen Sandiego's ThinkQuick Challenge Custom Question Creator</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed4</string>
+		<key>title</key>
+		<string>Carol Reed 4 - East Side Story</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed5</string>
+		<key>title</key>
+		<string>Carol Reed 5 - The Colour of Murder</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed6</string>
+		<key>title</key>
+		<string>Carol Reed 6 - Black Circle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed7</string>
+		<key>title</key>
+		<string>Carol Reed 7 - Blue Madonna</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed8</string>
+		<key>title</key>
+		<string>Carol Reed 8 - Amber's Blood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed9</string>
+		<key>title</key>
+		<string>Carol Reed 9 - Cold Case Summer</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed10</string>
+		<key>title</key>
+		<string>Carol Reed 10 - Bosch's Damnation</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed11</string>
+		<key>title</key>
+		<string>Carol Reed 11 - Shades Of Black</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed12</string>
+		<key>title</key>
+		<string>Carol Reed 12 - Profound Red</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed13</string>
+		<key>title</key>
+		<string>Carol Reed 13 - The Birdwatcher</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>carolreed14</string>
+		<key>title</key>
+		<string>Carol Reed 14 - The Fall Of April</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>castlebrain</string>
+		<key>title</key>
+		<string>Castle of Dr. Brain</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>catalog</string>
+		<key>title</key>
+		<string>Humongous Interactive Catalog</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>catdate</string>
+		<key>title</key>
+		<string>The Dating Pool</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>catinthehat</string>
+		<key>title</key>
+		<string>The Cat in the Hat</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>chase</string>
+		<key>title</key>
+		<string>SPY Fox in Cheese Chase</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>chest</string>
+		<key>title</key>
+		<string>Inside the Chest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>chewy</string>
+		<key>identifier</key>
+		<string>chewy</string>
+		<key>title</key>
+		<string>Chewy: Esc from F5</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>chivalry</string>
+		<key>title</key>
+		<string>Chivalry is Not Dead</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>chopsuey</string>
+		<key>title</key>
+		<string>Chop Suey</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>christmas1988</string>
+		<key>title</key>
+		<string>Christmas Card 1988</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>christmas1990</string>
+		<key>title</key>
+		<string>Christmas Card 1990: The Seasoned Professional</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>christmas1992</string>
+		<key>title</key>
+		<string>Christmas Card 1992</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>groovie</string>
+		<key>identifier</key>
+		<string>clandestiny</string>
+		<key>title</key>
+		<string>Clandestiny</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>xeen</string>
+		<key>identifier</key>
+		<string>cloudsofxeen</string>
+		<key>title</key>
+		<string>Might and Magic: Clouds of Xeen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>cnick-kq</string>
+		<key>title</key>
+		<string>Crazy Nick's Software Picks: King Graham's Board Game Challenge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>cnick-laurabow</string>
+		<key>title</key>
+		<string>Crazy Nick's Software Picks: Parlor Games with Laura Bow</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>cnick-longbow</string>
+		<key>title</key>
+		<string>Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>cnick-lsl</string>
+		<key>title</key>
+		<string>Crazy Nick's Software Picks: Leisure Suit Larry's Casino</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>cnick-sq</string>
+		<key>title</key>
+		<string>Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>colorsoncanvas</string>
+		<key>title</key>
+		<string>Colors on Canvas</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>comi</string>
+		<key>title</key>
+		<string>The Curse of Monkey Island</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>conspiracao</string>
+		<key>title</key>
+		<string>Conspiracao Dumont</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>corrosion</string>
+		<key>title</key>
+		<string>Corrosion: Cold Winter Waiting</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>create</string>
+		<key>title</key>
+		<string>The Story of Creation</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>crimsoncrown</string>
+		<key>title</key>
+		<string>The Crimson Crown</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>crousti</string>
+		<key>title</key>
+		<string>Croustibat</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cruise</string>
+		<key>identifier</key>
+		<string>cruise</string>
+		<key>title</key>
+		<string>Cruise for a Corpse</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>cstime</string>
+		<key>title</key>
+		<string>Where in Time is Carmen Sandiego?</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>cubert</string>
+		<key>title</key>
+		<string>Cubert Badbone, P.I.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>daniel</string>
+		<key>title</key>
+		<string>Daniel in the Lions' Den</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>darby</string>
+		<key>title</key>
+		<string>Darby the Dragon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>darkfallls</string>
+		<key>title</key>
+		<string>Dark Fall: Lost Souls</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>xeen</string>
+		<key>identifier</key>
+		<string>darksideofxeen</string>
+		<key>title</key>
+		<string>Might and Magic: Darkside of Xeen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>ddp</string>
+		<key>title</key>
+		<string>Donald Duck's Playground</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>deadcity</string>
+		<key>title</key>
+		<string>The Dead City</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>macventure</string>
+		<key>identifier</key>
+		<string>deja_vu</string>
+		<key>title</key>
+		<string>Deja Vu: A Nightmare Comes True!!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>macventure</string>
+		<key>identifier</key>
+		<string>deja_vu2</string>
+		<key>title</key>
+		<string>Déjà Vu II: Lost in Las Vegas</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>devilincapital</string>
+		<key>title</key>
+		<string>Devil In The Capital</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>dfafadventure</string>
+		<key>title</key>
+		<string>DFAF Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>dig</string>
+		<key>title</key>
+		<string>The Dig</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>dimp</string>
+		<key>title</key>
+		<string>Simon the Sorcerer's Puzzle Pack: Demon in my Pocket</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>saga</string>
+		<key>identifier</key>
+		<string>dino</string>
+		<key>title</key>
+		<string>Dinotopia</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>director</string>
+		<key>title</key>
+		<string>Macromedia Director Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>directortest</string>
+		<key>title</key>
+		<string>Macromedia Director Test Target</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>directortest-all</string>
+		<key>title</key>
+		<string>Macromedia Director All Movies Test Target</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>dirtysplit</string>
+		<key>title</key>
+		<string>Dirty Split</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>dm</string>
+		<key>identifier</key>
+		<string>dm</string>
+		<key>title</key>
+		<string>Dungeon Master</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>dog</string>
+		<key>title</key>
+		<string>Putt-Putt and Pep's Dog on a Stick</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>draci</string>
+		<key>identifier</key>
+		<string>draci</string>
+		<key>title</key>
+		<string>Dragon History</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>dragons</string>
+		<key>identifier</key>
+		<string>dragons</string>
+		<key>title</key>
+		<string>Blazing Dragons</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mads</string>
+		<key>identifier</key>
+		<string>dragonsphere</string>
+		<key>title</key>
+		<string>Dragonsphere</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>drakmythcastle</string>
+		<key>title</key>
+		<string>Drakmyth Castle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>drascula</string>
+		<key>identifier</key>
+		<string>drascula</string>
+		<key>title</key>
+		<string>Dráscula: The Vampire Strikes Back</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>drbohus</string>
+		<key>title</key>
+		<string>Dr. Bohus</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>drdoylemotch</string>
+		<key>title</key>
+		<string>Dr. Doyle - Mystery Of The Cloche Hat</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>dreamcat</string>
+		<key>title</key>
+		<string>Dreamcat</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>dreaming</string>
+		<key>title</key>
+		<string>Des Reves Elastiques Avec Mille Insectes Nommes Georges</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>dreamscape</string>
+		<key>title</key>
+		<string>Dreamscape</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>dreamweb</string>
+		<key>identifier</key>
+		<string>dreamweb</string>
+		<key>title</key>
+		<string>DreamWeb</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>driller</string>
+		<key>title</key>
+		<string>The Driller Incident</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>illusions</string>
+		<key>identifier</key>
+		<string>duckman</string>
+		<key>title</key>
+		<string>Duckman: The Graphic Adventures of a Private Dick</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tinsel</string>
+		<key>identifier</key>
+		<string>dw</string>
+		<key>title</key>
+		<string>Discworld</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tinsel</string>
+		<key>identifier</key>
+		<string>dw2</string>
+		<key>title</key>
+		<string>Discworld 2: Missing Presumed ...!?</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>dynasty</string>
+		<key>title</key>
+		<string>The Last Dynasty</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>ecoquest</string>
+		<key>title</key>
+		<string>EcoQuest: The Search for Cetus</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>ecoquest2</string>
+		<key>title</key>
+		<string>EcoQuest II: Lost Secret of the Rainforest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>elvira1</string>
+		<key>title</key>
+		<string>Elvira - Mistress of the Dark</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>elvira2</string>
+		<key>title</key>
+		<string>Elvira II: The Jaws of Cerberus</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>enclosure</string>
+		<key>title</key>
+		<string>Enclosure 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>eob</string>
+		<key>title</key>
+		<string>Eye of the Beholder</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>eob2</string>
+		<key>title</key>
+		<string>Eye of the Beholder II: The Legend of Darkmoon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>erinmyers</string>
+		<key>title</key>
+		<string>The Death of Erin Myers</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>ernie</string>
+		<key>title</key>
+		<string>Ernie</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>escapemansion</string>
+		<key>title</key>
+		<string>Escape from the Mansion</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>everydaygray</string>
+		<key>title</key>
+		<string>Everyday Grey</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>facenoir</string>
+		<key>title</key>
+		<string>Face Noir</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>fairytales</string>
+		<key>title</key>
+		<string>Mixed Up Fairy Tales</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>farm</string>
+		<key>title</key>
+		<string>Let's Explore: The Farm - With Buzzy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>fascination</string>
+		<key>title</key>
+		<string>Fascination</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>fbear</string>
+		<key>title</key>
+		<string>Fatty Bear's Birthday Surprise</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>fbpack</string>
+		<key>title</key>
+		<string>Fatty Bear's FunPack</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>feeble</string>
+		<key>title</key>
+		<string>The Feeble Files</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>findinghope</string>
+		<key>title</key>
+		<string>Finding Hope</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>football</string>
+		<key>title</key>
+		<string>Backyard Football</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>football2002</string>
+		<key>title</key>
+		<string>Backyard Football 2002</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>forgottensound1</string>
+		<key>title</key>
+		<string>Forgotten Sound 1 - Revelation</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>forgottensound2</string>
+		<key>title</key>
+		<string>Forgotten Sound 2 - Destiny</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>four</string>
+		<key>title</key>
+		<string>Four</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>foxtail</string>
+		<key>title</key>
+		<string>FoxTail</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>framed</string>
+		<key>title</key>
+		<string>Framed</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>frasse</string>
+		<key>title</key>
+		<string>Frasse and the Peas of Kejick</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddi</string>
+		<key>title</key>
+		<string>Freddi Fish and the Case of the Missing Kelp Seeds</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddi2</string>
+		<key>title</key>
+		<string>Freddi Fish 2: The Case of the Haunted Schoolhouse</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddi3</string>
+		<key>title</key>
+		<string>Freddi Fish 3: The Case of the Stolen Conch Shell</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddi4</string>
+		<key>title</key>
+		<string>Freddi Fish 4: The Case of the Hogfish Rustlers of Briny Gulch</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddicove</string>
+		<key>title</key>
+		<string>Freddi Fish 5: The Case of the Creature of Coral Cove</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>freddisfunshop</string>
+		<key>title</key>
+		<string>Freddi Fish's One-Stop Fun Shop</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>freddypharkas</string>
+		<key>title</key>
+		<string>Freddy Pharkas: Frontier Pharmacist</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>ft</string>
+		<key>title</key>
+		<string>Full Throttle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>saga</string>
+		<key>identifier</key>
+		<string>fta2</string>
+		<key>title</key>
+		<string>Halls of the Dead: Faery Tale Adventure II</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ngi</string>
+		<key>identifier</key>
+		<string>fullpipe</string>
+		<key>title</key>
+		<string>Full Pipe</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>funpack</string>
+		<key>title</key>
+		<string>Putt-Putt's Fun Pack</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>funseeker</string>
+		<key>title</key>
+		<string>Fun Seeker's Guide</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cine</string>
+		<key>identifier</key>
+		<string>fw</string>
+		<key>title</key>
+		<string>Future Wars: Adventures in Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>geisha</string>
+		<key>title</key>
+		<string>Geisha</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>ghostsheet</string>
+		<key>title</key>
+		<string>Ghost in the Sheet</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>gk1</string>
+		<key>title</key>
+		<string>Gabriel Knight: Sins of the Fathers</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>gk1demo</string>
+		<key>title</key>
+		<string>Gabriel Knight: Sins of the Fathers</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>gk2</string>
+		<key>title</key>
+		<string>The Beast Within: A Gabriel Knight Mystery</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>glulx</string>
+		<key>title</key>
+		<string>Glulx Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gnap</string>
+		<key>identifier</key>
+		<string>gnap</string>
+		<key>title</key>
+		<string>U.F.O.s</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob1</string>
+		<key>title</key>
+		<string>Gobliiins</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob1cd</string>
+		<key>title</key>
+		<string>Gobliiins</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob2</string>
+		<key>title</key>
+		<string>Gobliins 2: The Prince Buffoon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob2cd</string>
+		<key>title</key>
+		<string>Gobliins 2: The Prince Buffoon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob3</string>
+		<key>title</key>
+		<string>Goblins Quest 3</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>gob3cd</string>
+		<key>title</key>
+		<string>Goblins Quest 3</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>goldencalf</string>
+		<key>title</key>
+		<string>The Golden Calf</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>goldenwake</string>
+		<key>title</key>
+		<string>A Golden Wake</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>goldrush</string>
+		<key>title</key>
+		<string>Gold Rush!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>grandma</string>
+		<key>title</key>
+		<string>Just Grandma and Me</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>greeneggs</string>
+		<key>title</key>
+		<string>Green Eggs and Ham</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>gregory</string>
+		<key>title</key>
+		<string>Gregory and the Hot Air Balloon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>griffon</string>
+		<key>identifier</key>
+		<string>griffon</string>
+		<key>title</key>
+		<string>The Griffon Legend</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>grim</string>
+		<key>identifier</key>
+		<string>grim</string>
+		<key>title</key>
+		<string>Grim Fandango</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>gundam0079</string>
+		<key>title</key>
+		<string>Gundam 0079: The War for Earth</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>hamlet</string>
+		<key>title</key>
+		<string>Hamlet or the last game without MMORPG features, shaders and product placement</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>harryhh</string>
+		<key>title</key>
+		<string>Harry and the Haunted House</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>hdb</string>
+		<key>identifier</key>
+		<string>hdb</string>
+		<key>title</key>
+		<string>Hyperspace Delivery Boy!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>helga</string>
+		<key>title</key>
+		<string>Helga Deep In Trouble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires0</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #0: Mission Asteroid</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires1</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #1: Mystery House</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires2</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #2: The Wizard and the Princess</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires3</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #3: Cranston Manor</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires4</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #4: Ulysses and the Golden Fleece</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires5</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #5: Time Zone</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>adl</string>
+		<key>identifier</key>
+		<string>hires6</string>
+		<key>title</key>
+		<string>Hi-Res Adventure #6: The Dark Crystal</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>hopkins</string>
+		<key>identifier</key>
+		<string>hopkins</string>
+		<key>title</key>
+		<string>Hopkins FBI</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>hor</string>
+		<key>title</key>
+		<string>Hor</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle1</string>
+		<key>title</key>
+		<string>Hoyle: Official Book of Games - Volume 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle2</string>
+		<key>title</key>
+		<string>Hoyle: Official Book of Games - Volume 2: Solitaire</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle3</string>
+		<key>title</key>
+		<string>Hoyle: Official Book of Games - Volume 3</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle4</string>
+		<key>title</key>
+		<string>Hoyle Classic Card Games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle5</string>
+		<key>title</key>
+		<string>Hoyle Classic Games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle5bridge</string>
+		<key>title</key>
+		<string>Hoyle Bridge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle5children</string>
+		<key>title</key>
+		<string>Hoyle Children's Collection</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>hoyle5solitaire</string>
+		<key>title</key>
+		<string>Hoyle Solitaire</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>hugo</string>
+		<key>title</key>
+		<string>Hugo Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>hugo</string>
+		<key>identifier</key>
+		<string>hugo1</string>
+		<key>title</key>
+		<string>Hugo's House of Horrors</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>hugo</string>
+		<key>identifier</key>
+		<string>hugo2</string>
+		<key>title</key>
+		<string>Hugo II: Whodunit?</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>hugo</string>
+		<key>identifier</key>
+		<string>hugo3</string>
+		<key>title</key>
+		<string>Hugo III: Jungle of Doom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>icb</string>
+		<key>identifier</key>
+		<string>icb</string>
+		<key>title</key>
+		<string>In Cold Blood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>iceman</string>
+		<key>title</key>
+		<string>Code-Name: Iceman</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p1</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 1 - Alien Supreme Commander</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p2</string>
+		<key>title</key>
+		<string>ID4 Mission Disk 2: Alien Science Officer</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p3</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 3 - Warrior Alien</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p4</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 4 - Alien Navigator</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p5</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 5 - Captain Steve Hiller</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p6</string>
+		<key>title</key>
+		<string>ID4 Mission Disk 6: Technical Expert David Levinson</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p7</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 7 - President Whitmore</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p8</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 8 - Alien Attack Fighter</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p9</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 9 - FA-18 Fighter Jet</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p10</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 10 - Alien Bomber</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>id4p11</string>
+		<key>title</key>
+		<string>iD4 Mission Disk 11 - Area 51</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>saga</string>
+		<key>identifier</key>
+		<string>ihnm</string>
+		<key>title</key>
+		<string>Harlan Ellison: I Have No Mouth, and I Must Scream</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>imoking</string>
+		<key>title</key>
+		<string>Magic Tales: Imo &amp; the King</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>inca2</string>
+		<key>title</key>
+		<string>Inca II: Nations of Immortality</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>indy3</string>
+		<key>title</key>
+		<string>Indiana Jones and the Last Crusade: The Graphic Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>indyloom</string>
+		<key>title</key>
+		<string>Indiana Jones and the Last Crusade &amp; Loom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>indyzak</string>
+		<key>title</key>
+		<string>Games, Games, Games: Maniac Mansion + Zak McKracken + Indiana Jones and the last Crusade</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>inndemo</string>
+		<key>title</key>
+		<string>ImagiNation Network (INN) Demo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>interview</string>
+		<key>title</key>
+		<string>The Interview</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>islandbrain</string>
+		<key>title</key>
+		<string>The Island of Dr. Brain</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>saga</string>
+		<key>identifier</key>
+		<string>ite</string>
+		<key>title</key>
+		<string>Inherit the Earth: Quest for the Orb</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>jacl</string>
+		<key>title</key>
+		<string>JACL Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>jamesperis</string>
+		<key>title</key>
+		<string>James Peris: No License Nor Control</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>jewels</string>
+		<key>title</key>
+		<string>Jewels of the Oracle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>jman</string>
+		<key>title</key>
+		<string>The Journeyman Project</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>jones</string>
+		<key>title</key>
+		<string>Jones in the Fast Lane</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>julia</string>
+		<key>title</key>
+		<string>J.U.L.I.A.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>juliastars</string>
+		<key>title</key>
+		<string>J.U.L.I.A.: Among the Stars</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>juliauntold</string>
+		<key>title</key>
+		<string>J.U.L.I.A. Untold</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>jumble</string>
+		<key>title</key>
+		<string>Simon the Sorcerer's Puzzle Pack: Jumble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>jungle</string>
+		<key>title</key>
+		<string>Let's Explore the Jungle with Buzzy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>kathyrain</string>
+		<key>title</key>
+		<string>Kathy Rain</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kingdom</string>
+		<key>identifier</key>
+		<string>kingdom</string>
+		<key>title</key>
+		<string>Kingdom: The Far Reaches</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>knossos</string>
+		<key>title</key>
+		<string>K'NOSSOS</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>kq1</string>
+		<key>title</key>
+		<string>King's Quest I: Quest for the Crown</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kq1sci</string>
+		<key>title</key>
+		<string>King's Quest: Quest for the Crown</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>kq2</string>
+		<key>title</key>
+		<string>King's Quest II: Romancing the Throne</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>kq3</string>
+		<key>title</key>
+		<string>King's Quest III: To Heir Is Human</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>kq4</string>
+		<key>title</key>
+		<string>King's Quest IV: The Perils of Rosella</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kq4sci</string>
+		<key>title</key>
+		<string>King's Quest IV: The Perils of Rosella</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kq5</string>
+		<key>title</key>
+		<string>King's Quest V: Absence Makes the Heart Go Yonder!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kq6</string>
+		<key>title</key>
+		<string>King's Quest VI: Heir Today, Gone Tomorrow</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kq7</string>
+		<key>title</key>
+		<string>King's Quest VII: The Princeless Bride</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>kquestions</string>
+		<key>title</key>
+		<string>King's Questions</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>kulivocko</string>
+		<key>title</key>
+		<string>Kulivocko</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>kyra1</string>
+		<key>title</key>
+		<string>The Legend of Kyrandia</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>kyra2</string>
+		<key>title</key>
+		<string>The Legend of Kyrandia: Hand of Fate</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>kyra3</string>
+		<key>title</key>
+		<string>The Legend of Kyrandia: Book 3 - Malcolm's Revenge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>lab</string>
+		<key>identifier</key>
+		<string>lab</string>
+		<key>title</key>
+		<string>The Labyrinth of Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>lastexpress</string>
+		<key>identifier</key>
+		<string>lastexpress</string>
+		<key>title</key>
+		<string>The Last Express</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>laurabow</string>
+		<key>title</key>
+		<string>Laura Bow: The Colonel's Bequest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>laurabow2</string>
+		<key>title</key>
+		<string>Laura Bow 2: The Dagger of Amon Ra</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>twine</string>
+		<key>identifier</key>
+		<string>lba</string>
+		<key>title</key>
+		<string>Little Big Adventure (Relentless: Twinsen's Adventure)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>twine</string>
+		<key>identifier</key>
+		<string>lba2</string>
+		<key>title</key>
+		<string>Little Big Adventure 2: Twinsen's Odyssey</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>lbsampler</string>
+		<key>title</key>
+		<string>Living Books Sampler</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>level9</string>
+		<key>title</key>
+		<string>Level 9 Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>made</string>
+		<key>identifier</key>
+		<string>lgop2</string>
+		<key>title</key>
+		<string>Leather Goddesses of Phobos! 2: Gas Pump Girls Meet the Pulsating Inconvenience from Planet X</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>liam</string>
+		<key>title</key>
+		<string>Magic Tales: Liam Finds a Story</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>life</string>
+		<key>title</key>
+		<string>Life Flashes By</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>lifein3minutes</string>
+		<key>title</key>
+		<string>Life In 3 Minutes</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lighthouse</string>
+		<key>title</key>
+		<string>Lighthouse: The Dark Being</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>lilmonster</string>
+		<key>title</key>
+		<string>Little Monster at School</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>lit</string>
+		<key>title</key>
+		<string>Lost in Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>lit1</string>
+		<key>title</key>
+		<string>Lost in Time Part 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>lit2</string>
+		<key>title</key>
+		<string>Lost in Time Part 2</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>littlered</string>
+		<key>title</key>
+		<string>Once Upon A Time: Little Red Riding Hood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>littlesamurai</string>
+		<key>title</key>
+		<string>Magic Tales: The Little Samurai</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>kyra</string>
+		<key>identifier</key>
+		<string>lol</string>
+		<key>title</key>
+		<string>Lands of Lore: The Throne of Chaos</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>lonelyrobot</string>
+		<key>title</key>
+		<string>Project Lonely Robot</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>longbow</string>
+		<key>title</key>
+		<string>Conquests of the Longbow: The Legend of Robin Hood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>looky</string>
+		<key>title</key>
+		<string>Looky</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>loom</string>
+		<key>title</key>
+		<string>Loom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>lost</string>
+		<key>title</key>
+		<string>Pajama Sam's Lost &amp; Found</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cryo</string>
+		<key>identifier</key>
+		<string>losteden</string>
+		<key>title</key>
+		<string>Lost Eden</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>lotl</string>
+		<key>title</key>
+		<string>Limbo of the Lost</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>lovmamuta</string>
+		<key>title</key>
+		<string>Lov Mamuta</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>lsl1</string>
+		<key>title</key>
+		<string>Leisure Suit Larry in the Land of the Lounge Lizards</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl1sci</string>
+		<key>title</key>
+		<string>Leisure Suit Larry in the Land of the Lounge Lizards</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl2</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl3</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 3: Passionate Patti in Pursuit of the Pulsating Pectorals</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl5</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl6</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 6: Shape Up or Slip Out!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl6hires</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 6: Shape Up or Slip Out!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>lsl7</string>
+		<key>title</key>
+		<string>Leisure Suit Larry 7: Love for Sail!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>lure</string>
+		<key>identifier</key>
+		<string>lure</string>
+		<key>title</key>
+		<string>Lure of the Temptress</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>lzone</string>
+		<key>title</key>
+		<string>L-ZONE</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>machumayu</string>
+		<key>title</key>
+		<string>Machu Mayu</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>maggiesfa</string>
+		<key>title</key>
+		<string>Maggie's Farmyard Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>magictales</string>
+		<key>title</key>
+		<string>Magic Tales</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>magnetic</string>
+		<key>title</key>
+		<string>Magnetic Scrolls Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>majestic</string>
+		<key>title</key>
+		<string>Majestic Part 1: Alien Encounter</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>makingofmyst</string>
+		<key>title</key>
+		<string>The Making of Myst</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>mandy</string>
+		<key>title</key>
+		<string>Mandy Christmas Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>made</string>
+		<key>identifier</key>
+		<string>manhole</string>
+		<key>title</key>
+		<string>The Manhole</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>maniac</string>
+		<key>title</key>
+		<string>Maniac Mansion</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>access</string>
+		<key>identifier</key>
+		<string>martian</string>
+		<key>title</key>
+		<string>Martian Memorandum</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>martiandreams</string>
+		<key>title</key>
+		<string>Ultima: Worlds of Adventure 2 - Martian Dreams</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>martiandreams_enh</string>
+		<key>title</key>
+		<string>Ultima: Worlds of Adventure 2 - Martian Dreams</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>maze</string>
+		<key>title</key>
+		<string>Freddi Fish and Luther's Maze Madness</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>mediaband</string>
+		<key>title</key>
+		<string>Meet Mediaband</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>melements</string>
+		<key>title</key>
+		<string>Masters of the Elements</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>mentalrepairs</string>
+		<key>title</key>
+		<string>Mental Repairs, Inc.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>mh1</string>
+		<key>title</key>
+		<string>Manhunter: New York</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>mh2</string>
+		<key>title</key>
+		<string>Manhunter 2: San Francisco</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>mickey</string>
+		<key>title</key>
+		<string>Mickey's Space Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>mirage</string>
+		<key>title</key>
+		<string>Mirage</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>mixedup</string>
+		<key>title</key>
+		<string>Mixed-Up Mother Goose</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>monkey</string>
+		<key>title</key>
+		<string>The Secret of Monkey Island</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>monkey2</string>
+		<key>title</key>
+		<string>Monkey Island 2: LeChuck's Revenge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>grim</string>
+		<key>identifier</key>
+		<string>monkey4</string>
+		<key>title</key>
+		<string>Escape From Monkey Island</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>moonbase</string>
+		<key>title</key>
+		<string>Moonbase Commander</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mortevielle</string>
+		<key>identifier</key>
+		<string>mortevielle</string>
+		<key>title</key>
+		<string>Mortville Manor</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>mothergoose</string>
+		<key>title</key>
+		<string>Mixed-Up Mother Goose</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>mothergoose256</string>
+		<key>title</key>
+		<string>Mixed-Up Mother Goose</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>mothergoosehires</string>
+		<key>title</key>
+		<string>Mixed-Up Mother Goose Deluxe</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>msastrochicken</string>
+		<key>title</key>
+		<string>Ms. Astro Chicken</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>supernova</string>
+		<key>identifier</key>
+		<string>msn1</string>
+		<key>title</key>
+		<string>Mission Supernova 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>supernova</string>
+		<key>identifier</key>
+		<string>msn2</string>
+		<key>title</key>
+		<string>Mission Supernova 2</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>msos</string>
+		<key>title</key>
+		<string>Monday Starts on Saturday</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>mustard</string>
+		<key>title</key>
+		<string>SPY Fox in Hold the Mustard</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mutationofjb</string>
+		<key>identifier</key>
+		<string>mutationofjb</string>
+		<key>title</key>
+		<string>Mutation of J.B.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>myburdentokeep</string>
+		<key>title</key>
+		<string>My Burden to Keep</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>myst</string>
+		<key>title</key>
+		<string>Myst</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>myst3</string>
+		<key>identifier</key>
+		<string>myst3</string>
+		<key>title</key>
+		<string>Myst III Exile</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>mystme</string>
+		<key>title</key>
+		<string>Myst: Masterpiece Edition</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>mythguff</string>
+		<key>title</key>
+		<string>Myth: A Guff's Tale</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mads</string>
+		<key>identifier</key>
+		<string>nebular</string>
+		<key>title</key>
+		<string>Rex Nebular and the Cosmic Gender Bender</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>neverhood</string>
+		<key>identifier</key>
+		<string>neverhood</string>
+		<key>title</key>
+		<string>The Neverhood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>newkid</string>
+		<key>title</key>
+		<string>The New Kid on the Block</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>nighttrain</string>
+		<key>title</key>
+		<string>Night Train</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>parallaction</string>
+		<key>identifier</key>
+		<string>nippon</string>
+		<key>title</key>
+		<string>Nippon Safes, Inc.</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>trecision</string>
+		<key>identifier</key>
+		<string>nl</string>
+		<key>title</key>
+		<string>Nightlong: Union City Conspiracy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>oknytt</string>
+		<key>title</key>
+		<string>Oknytt</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>onceupon</string>
+		<key>title</key>
+		<string>Once Upon A Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>one</string>
+		<key>title</key>
+		<string>One</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>onehelluvaday</string>
+		<key>title</key>
+		<string>One Helluva Day</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>ootopos</string>
+		<key>title</key>
+		<string>OO-Topos</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>openquest</string>
+		<key>title</key>
+		<string>Open Quest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cine</string>
+		<key>identifier</key>
+		<string>os</string>
+		<key>title</key>
+		<string>007: James Bond - The Stealth Affair</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>outoforder</string>
+		<key>title</key>
+		<string>Out Of Order</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>paintaria</string>
+		<key>title</key>
+		<string>Paintaria</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>pajama</string>
+		<key>title</key>
+		<string>Pajama Sam: No Need to Hide When It's Dark Outside</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>pajama2</string>
+		<key>title</key>
+		<string>Pajama Sam 2: Thunder and Lightning aren't so Frightening</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>pajama3</string>
+		<key>title</key>
+		<string>Pajama Sam 3: You Are What You Eat From Your Head To Your Feet</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>palladion</string>
+		<key>title</key>
+		<string>Palladion</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>papasdaughters1</string>
+		<key>title</key>
+		<string>Papa's Daughters</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>papasdaughters2</string>
+		<key>title</key>
+		<string>Papa's Daughters Go to the Sea</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>pass</string>
+		<key>title</key>
+		<string>Passport to Adventure (Indiana Jones and the Last Crusade, The Secret of Monkey Island, Loom)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>pegasus</string>
+		<key>identifier</key>
+		<string>pegasus</string>
+		<key>title</key>
+		<string>The Journeyman Project: Pegasus Prime</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pepper</string>
+		<key>title</key>
+		<string>Pepper's Adventures in Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>pink</string>
+		<key>identifier</key>
+		<string>peril</string>
+		<key>title</key>
+		<string>The Pink Panther: Passport to Peril</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>petka</string>
+		<key>identifier</key>
+		<string>petka1</string>
+		<key>title</key>
+		<string>Red Comrades 1: Save the Galaxy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>petka</string>
+		<key>identifier</key>
+		<string>petka2</string>
+		<key>title</key>
+		<string>Red Comrades 2: For the Great Justice</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>phantasmagoria</string>
+		<key>title</key>
+		<string>Phantasmagoria</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>phantasmagoria2</string>
+		<key>title</key>
+		<string>Phantasmagoria 2: A Puzzle of Flesh</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mads</string>
+		<key>identifier</key>
+		<string>phantom</string>
+		<key>title</key>
+		<string>Return of the Phantom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>pigeons</string>
+		<key>title</key>
+		<string>Pigeons in the Park</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>pizzamorgana</string>
+		<key>title</key>
+		<string>Pizza Morgana: Episode 1 - Monsters and Manipulations in the Magical Forest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>pjgames</string>
+		<key>title</key>
+		<string>Pajama Sam: Games to Play on Any Day</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtnck1</string>
+		<key>title</key>
+		<string>Playtoons Construction Kit 1 - Monsters</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtnck2</string>
+		<key>title</key>
+		<string>Playtoons Construction Kit 2 - Knights</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtnck3</string>
+		<key>title</key>
+		<string>Playtoons Construction Kit 3 - Far West</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoons1</string>
+		<key>title</key>
+		<string>Playtoons 1 - Uncle Archibald</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoons2</string>
+		<key>title</key>
+		<string>Playtoons 2 - The Case of the Counterfeit Collaborator</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoons3</string>
+		<key>title</key>
+		<string>Playtoons 3 - The Secret of the Castle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoons4</string>
+		<key>title</key>
+		<string>Playtoons 4 - The Mandarine Prince</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoons5</string>
+		<key>title</key>
+		<string>Playtoons 5 - The Stone of Wakan</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>playtoonsdemo</string>
+		<key>title</key>
+		<string>Playtoon 1 - Uncle Archibald, Playtoon 2 - Spirou, Playtoons 3 - Secret of the Castle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>plumbers</string>
+		<key>identifier</key>
+		<string>plumbers</string>
+		<key>title</key>
+		<string>Plumbers Don't Wear Ties</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>pn</string>
+		<key>title</key>
+		<string>...A Personal Nightmare</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>pink</string>
+		<key>identifier</key>
+		<string>pokus</string>
+		<key>title</key>
+		<string>The Pink Panther: Hokus Pokus Pink</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>polechudes</string>
+		<key>title</key>
+		<string>Pole Chudes</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>pq1</string>
+		<key>title</key>
+		<string>Police Quest: In Pursuit of the Death Angel</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pq1sci</string>
+		<key>title</key>
+		<string>Police Quest: In Pursuit of the Death Angel</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pq2</string>
+		<key>title</key>
+		<string>Police Quest 2: The Vengeance</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pq3</string>
+		<key>title</key>
+		<string>Police Quest 3: The Kindred</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pq4</string>
+		<key>title</key>
+		<string>Police Quest IV: Open Season</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pq4demo</string>
+		<key>title</key>
+		<string>Police Quest IV: Open Season</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>pqswat</string>
+		<key>title</key>
+		<string>Police Quest: SWAT</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>prince</string>
+		<key>identifier</key>
+		<string>prince</string>
+		<key>title</key>
+		<string>The Prince and the Coward</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>princess</string>
+		<key>title</key>
+		<string>Magic Tales: The Princess and the Crab</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>private</string>
+		<key>identifier</key>
+		<string>private-eye</string>
+		<key>title</key>
+		<string>Private Eye</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>projectdoom</string>
+		<key>title</key>
+		<string>Project: Doom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>projectjoe</string>
+		<key>title</key>
+		<string>Project Joe</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttcircus</string>
+		<key>title</key>
+		<string>Putt-Putt Joins the Circus</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttmoon</string>
+		<key>title</key>
+		<string>Putt-Putt Goes to the Moon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttputt</string>
+		<key>title</key>
+		<string>Putt-Putt Joins the Parade</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttrace</string>
+		<key>title</key>
+		<string>Putt-Putt Enters the Race</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttsfunshop</string>
+		<key>title</key>
+		<string>Putt-Putt's One-Stop Fun Shop</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>putttime</string>
+		<key>title</key>
+		<string>Putt-Putt Travels Through Time</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>puttzoo</string>
+		<key>title</key>
+		<string>Putt-Putt Saves the Zoo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>puzzle</string>
+		<key>title</key>
+		<string>Simon the Sorcerer's Puzzle Pack: NoPatience</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>qajarycat</string>
+		<key>title</key>
+		<string>Qajary Cat</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>qfg1</string>
+		<key>title</key>
+		<string>Hero's Quest: So You Want to Be a Hero</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>qfg1vga</string>
+		<key>title</key>
+		<string>Quest for Glory I: So You Want To Be A Hero</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>qfg2</string>
+		<key>title</key>
+		<string>Quest for Glory II: Trial by Fire</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>qfg3</string>
+		<key>title</key>
+		<string>Quest for Glory III: Wages of War</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>qfg4</string>
+		<key>title</key>
+		<string>Quest for Glory IV: Shadows of Darkness</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>qfg4demo</string>
+		<key>title</key>
+		<string>Quest for Glory IV: Shadows of Darkness</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>queen</string>
+		<key>identifier</key>
+		<string>queen</string>
+		<key>title</key>
+		<string>Flight of the Amazon Queen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>quest</string>
+		<key>title</key>
+		<string>Quest Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>rama</string>
+		<key>title</key>
+		<string>RAMA</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>raysmaze</string>
+		<key>title</key>
+		<string>Ray's Maze</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>readtime</string>
+		<key>title</key>
+		<string>Blue's Reading Time Activities</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>rebeccacarlson1</string>
+		<key>title</key>
+		<string>Rebecca Carlson Mystery 01 - Silent Footsteps</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>regret</string>
+		<key>title</key>
+		<string>Crusader: No Regret</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>remorse</string>
+		<key>title</key>
+		<string>Crusader: No Remorse</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>reptilesquest</string>
+		<key>title</key>
+		<string>On the Tracks of Dinosaurs</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>resonance</string>
+		<key>title</key>
+		<string>Resonance</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>reversion1</string>
+		<key>title</key>
+		<string>Reversion: The Escape</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>reversion2</string>
+		<key>title</key>
+		<string>Reversion: The Meeting</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>reversion3</string>
+		<key>title</key>
+		<string>Reversion: The Return</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>rhiannon</string>
+		<key>title</key>
+		<string>Rhiannon: Curse of the four Branches</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tsage</string>
+		<key>identifier</key>
+		<string>ringworld</string>
+		<key>title</key>
+		<string>Ringworld: Revenge of the Patriarch</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tsage</string>
+		<key>identifier</key>
+		<string>ringworld2</string>
+		<key>title</key>
+		<string>Return to Ringworld</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>ritter</string>
+		<key>title</key>
+		<string>1½ Ritter: Auf der Suche nach der hinreißenden Herzelinde</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>riven</string>
+		<key>title</key>
+		<string>Riven: The Sequel to Myst</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>lilliput</string>
+		<key>identifier</key>
+		<string>robin</string>
+		<key>title</key>
+		<string>The Adventures of Robin Hood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>robinsrescue</string>
+		<key>title</key>
+		<string>Robin's Rescue</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>made</string>
+		<key>identifier</key>
+		<string>rodney</string>
+		<key>title</key>
+		<string>Rodney's Funscreen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>lilliput</string>
+		<key>identifier</key>
+		<string>rome</string>
+		<key>title</key>
+		<string>Rome: Pathway to Power</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>rosemary</string>
+		<key>title</key>
+		<string>Rosemary</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sherlock</string>
+		<key>identifier</key>
+		<string>rosetattoo</string>
+		<key>title</key>
+		<string>The Lost Files of Sherlock Holmes: Case of the Rose Tattoo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>made</string>
+		<key>identifier</key>
+		<string>rtz</string>
+		<key>title</key>
+		<string>Return to Zork</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>ruff</string>
+		<key>title</key>
+		<string>Ruff's Bone</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>rugrats</string>
+		<key>title</key>
+		<string>Rugrats Adventure Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>rugratsps</string>
+		<key>title</key>
+		<string>Rugrats Print Shop</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>samnmax</string>
+		<key>title</key>
+		<string>Sam &amp; Max: Hit the Road</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>samsfunshop</string>
+		<key>title</key>
+		<string>Pajama Sam's One Stop Fun Shop</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>asylum</string>
+		<key>identifier</key>
+		<string>sanitarium</string>
+		<key>title</key>
+		<string>Sanitarium</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>satanandsons</string>
+		<key>title</key>
+		<string>Satan and Sons</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sherlock</string>
+		<key>identifier</key>
+		<string>scalpel</string>
+		<key>title</key>
+		<string>The Lost Files of Sherlock Holmes: The Case of the Serrated Scalpel</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>scepters</string>
+		<key>title</key>
+		<string>Enchanted Scepters</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sci</string>
+		<key>title</key>
+		<string>Sierra SCI Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sci-fanmade</string>
+		<key>title</key>
+		<string>Fanmade SCI Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>scottadams</string>
+		<key>title</key>
+		<string>Scott Adams Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>securanote</string>
+		<key>title</key>
+		<string>Securanote</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>serguei1</string>
+		<key>title</key>
+		<string>Serguei's Destiny</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>serguei2</string>
+		<key>title</key>
+		<string>Serguei's Destiny 2</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>seussabc</string>
+		<key>title</key>
+		<string>Dr. Seuss's ABC</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cge2</string>
+		<key>identifier</key>
+		<string>sfinx</string>
+		<key>title</key>
+		<string>Sfinx</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>shaban</string>
+		<key>title</key>
+		<string>Shaban</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>macventure</string>
+		<key>identifier</key>
+		<string>shadowgate</string>
+		<key>title</key>
+		<string>Shadowgate</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>sheila</string>
+		<key>title</key>
+		<string>Sheila Rae, the Brave</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tsage</string>
+		<key>identifier</key>
+		<string>sherlock-logo</string>
+		<key>title</key>
+		<string>The Lost Files of Sherlock Holmes</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>shinestar</string>
+		<key>title</key>
+		<string>The Shine of a Star</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>shivers</string>
+		<key>title</key>
+		<string>Shivers</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>simon1</string>
+		<key>title</key>
+		<string>Simon the Sorcerer</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>simon2</string>
+		<key>title</key>
+		<string>Simon the Sorcerer II: The Lion, the Wizard and the Wardrobe</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sky</string>
+		<key>identifier</key>
+		<string>sky</string>
+		<key>title</key>
+		<string>Beneath a Steel Sky</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>slater</string>
+		<key>title</key>
+		<string>Slater &amp; Charlie Go Camping</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>composer</string>
+		<key>identifier</key>
+		<string>sleepingcub</string>
+		<key>title</key>
+		<string>Magic Tales: Sleeping Cub's Test of Courage</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>sludge</string>
+		<key>title</key>
+		<string>Sludge Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>soccer</string>
+		<key>title</key>
+		<string>Backyard Soccer</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>soccer2004</string>
+		<key>title</key>
+		<string>Backyard Soccer 2004</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>soccermls</string>
+		<key>title</key>
+		<string>Backyard Soccer MLS Edition</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>socks</string>
+		<key>title</key>
+		<string>Pajama Sam's SockWorks</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>sofiasdebt</string>
+		<key>title</key>
+		<string>Sofia's Debt</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cge</string>
+		<key>identifier</key>
+		<string>soltys</string>
+		<key>title</key>
+		<string>Sołtys</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>sotv1</string>
+		<key>title</key>
+		<string>Shadows on the Vatican - Act 1: Greed</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>sotv2</string>
+		<key>title</key>
+		<string>Shadows on the Vatican - Act II: Wrath</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>spaceinvaders</string>
+		<key>title</key>
+		<string>Space Invaders</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>spacemadness</string>
+		<key>title</key>
+		<string>Space Madness</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>spyclub</string>
+		<key>title</key>
+		<string>Spy Club</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>spyfox</string>
+		<key>title</key>
+		<string>Spy Fox in "Dry Cereal"</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>spyfox2</string>
+		<key>title</key>
+		<string>Spy Fox 2: "Some Assembly Required"</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>spyozon</string>
+		<key>title</key>
+		<string>Spy Fox: "Operation Ozone"</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>sq0</string>
+		<key>title</key>
+		<string>Space Quest 0: Replicated</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>sq1</string>
+		<key>title</key>
+		<string>Space Quest: Chapter I - The Sarien Encounter</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sq1sci</string>
+		<key>title</key>
+		<string>Space Quest I: Roger Wilco in the Sarien Encounter</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>sq2</string>
+		<key>title</key>
+		<string>Space Quest II: Chapter II - Vohaul's Revenge</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sq3</string>
+		<key>title</key>
+		<string>Space Quest III: The Pirates of Pestulon</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sq4</string>
+		<key>title</key>
+		<string>Space Quest IV: Roger Wilco and the Time Rippers</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sq5</string>
+		<key>title</key>
+		<string>Space Quest V: The Next Mutation</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>sq6</string>
+		<key>title</key>
+		<string>Space Quest 6: Roger Wilco in the Spinal Frontier</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>sq45</string>
+		<key>title</key>
+		<string>Space Quest IV.5 - Roger Wilco and the Voyage Home</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>sqdote</string>
+		<key>title</key>
+		<string>Space Quest Minus 1: Decisions of the Elders</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>sqinc</string>
+		<key>title</key>
+		<string>Space Quest: Incinerations</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ags</string>
+		<key>identifier</key>
+		<string>sqvsb</string>
+		<key>title</key>
+		<string>Space Quest: Vohaul Strikes Back</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>sqx</string>
+		<key>title</key>
+		<string>Space Quest: The Lost Chapter</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>startrek</string>
+		<key>identifier</key>
+		<string>st25</string>
+		<key>title</key>
+		<string>Star Trek: 25th Anniversary</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>stellaluna</string>
+		<key>title</key>
+		<string>Stellaluna</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>startrek</string>
+		<key>identifier</key>
+		<string>stjr</string>
+		<key>title</key>
+		<string>Star Trek: Judgment Rites</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>swampy</string>
+		<key>title</key>
+		<string>Simon the Sorcerer's Puzzle Pack: Swampy Adventures</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1demo</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars (Demo)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1mac</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars (Mac)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1macdemo</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars (Mac demo)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1psx</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars (PlayStation)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword1</string>
+		<key>identifier</key>
+		<string>sword1psxdemo</string>
+		<key>title</key>
+		<string>Broken Sword: The Shadow of the Templars (PlayStation demo)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword2</string>
+		<key>identifier</key>
+		<string>sword2</string>
+		<key>title</key>
+		<string>Broken Sword II: The Smoking Mirror</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword2</string>
+		<key>identifier</key>
+		<string>sword2alt</string>
+		<key>title</key>
+		<string>Broken Sword II: The Smoking Mirror (alt)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword2</string>
+		<key>identifier</key>
+		<string>sword2demo</string>
+		<key>title</key>
+		<string>Broken Sword II: The Smoking Mirror (Demo)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword2</string>
+		<key>identifier</key>
+		<string>sword2psx</string>
+		<key>title</key>
+		<string>Broken Sword II: The Smoking Mirror (PlayStation)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword2</string>
+		<key>identifier</key>
+		<string>sword2psxdemo</string>
+		<key>title</key>
+		<string>Broken Sword II: The Smoking Mirror (PlayStation/Demo)</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sword25</string>
+		<key>identifier</key>
+		<string>sword25</string>
+		<key>title</key>
+		<string>Broken Sword 2.5: The Return of the Templars</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>xeen</string>
+		<key>identifier</key>
+		<string>swordsofxeen</string>
+		<key>title</key>
+		<string>Might and Magic: Swords of Xeen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>groovie</string>
+		<key>identifier</key>
+		<string>t7g</string>
+		<key>title</key>
+		<string>The 7th Guest</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tanya1</string>
+		<key>title</key>
+		<string>Tanya Grotter and the Magical Double Bass</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tanya2</string>
+		<key>title</key>
+		<string>Tanya Grotter and the Disappearing Floor</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>teenagent</string>
+		<key>identifier</key>
+		<string>teenagent</string>
+		<key>title</key>
+		<string>Teen Agent</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tehran1933</string>
+		<key>title</key>
+		<string>Murder In Tehran's Alleys 1933</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tehran2016</string>
+		<key>title</key>
+		<string>Murder In Tehran's Alleys 2016</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>tentacle</string>
+		<key>title</key>
+		<string>Maniac Mansion: Day of the Tentacle</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>testbed</string>
+		<key>identifier</key>
+		<string>testbed</string>
+		<key>title</key>
+		<string>Testbed: The Backend Testing Framework</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>tetris</string>
+		<key>title</key>
+		<string>AGI Tetris</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>tgttpoacs</string>
+		<key>title</key>
+		<string>The Game That Takes Place on a Cruise Ship</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>theancientmark1</string>
+		<key>title</key>
+		<string>The Ancient Mark - Episode 1</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>theapartment</string>
+		<key>title</key>
+		<string>The Apartment, Interactive demo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>thebox</string>
+		<key>title</key>
+		<string>The Box</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>thekite</string>
+		<key>title</key>
+		<string>The Kite</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>thelastcrownmh</string>
+		<key>title</key>
+		<string>The Last Crown - Midnight Horror</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>thelostcrowngha</string>
+		<key>title</key>
+		<string>The Lost Crown - A Ghost-Hunting Adventure</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>thesavageempire</string>
+		<key>title</key>
+		<string>Worlds of Ultima: The Savage Empire</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>thesavageempire_enh</string>
+		<key>title</key>
+		<string>Worlds of Ultima: The Savage Empire - Enhanced</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>thinker1</string>
+		<key>title</key>
+		<string>Big Thinkers!: 1st Grade</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>thinkerk</string>
+		<key>title</key>
+		<string>Big Thinkers!: Kindergarten</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tib</string>
+		<key>title</key>
+		<string>Fairy Tales About Toshechka and Boshechka</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>titanic</string>
+		<key>identifier</key>
+		<string>titanic</string>
+		<key>title</key>
+		<string>Starship Titanic</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>groovie</string>
+		<key>identifier</key>
+		<string>tlc</string>
+		<key>title</key>
+		<string>Tender Loving Care</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>stark</string>
+		<key>identifier</key>
+		<string>tlj</string>
+		<key>title</key>
+		<string>The Longest Journey</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>toltecs</string>
+		<key>identifier</key>
+		<string>toltecs</string>
+		<key>title</key>
+		<string>3 Skulls of the Toltecs</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tony</string>
+		<key>identifier</key>
+		<string>tony</string>
+		<key>title</key>
+		<string>Tony Tough and the Night of Roasted Moths</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>toon</string>
+		<key>identifier</key>
+		<string>toon</string>
+		<key>title</key>
+		<string>Toonstruck</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sci</string>
+		<key>identifier</key>
+		<string>torin</string>
+		<key>title</key>
+		<string>Torin's Passage</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>mohawk</string>
+		<key>identifier</key>
+		<string>tortoise</string>
+		<key>title</key>
+		<string>Aesop's Fables: The Tortoise and the Hare</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>touche</string>
+		<key>identifier</key>
+		<string>touche</string>
+		<key>title</key>
+		<string>Touché: The Adventures of the Fifth Musketeer</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>tradestory</string>
+		<key>title</key>
+		<string>The Trader of Stories</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>transylvania</string>
+		<key>title</key>
+		<string>Transylvania</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>troll</string>
+		<key>title</key>
+		<string>Troll's Tale</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>tucker</string>
+		<key>identifier</key>
+		<string>tucker</string>
+		<key>title</key>
+		<string>Bud Tucker in Double Trouble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>twc</string>
+		<key>title</key>
+		<string>The White Chamber</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>twisted</string>
+		<key>title</key>
+		<string>Twisted!</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>ultima1</string>
+		<key>title</key>
+		<string>Ultima I - The First Age of Darkness</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>ultima4</string>
+		<key>title</key>
+		<string>Ultima IV: Quest of the Avatar</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>ultima6</string>
+		<key>title</key>
+		<string>Ultima VI: The False Prophet</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>ultima6_enh</string>
+		<key>title</key>
+		<string>Ultima VI: The False Prophet</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>ultima</string>
+		<key>identifier</key>
+		<string>ultima8</string>
+		<key>title</key>
+		<string>Ultima VIII - Pagan</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>groovie</string>
+		<key>identifier</key>
+		<string>unclehenry</string>
+		<key>title</key>
+		<string>Uncle Henry's Playhouse</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>urban</string>
+		<key>title</key>
+		<string>Urban Runner</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>verbcoin</string>
+		<key>title</key>
+		<string>Verb Coin</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>cryomni3d</string>
+		<key>identifier</key>
+		<string>versailles</string>
+		<key>title</key>
+		<string>Versailles 1685</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>voodoo</string>
+		<key>title</key>
+		<string>Voodoo Girl - Queen of the Darned</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>voyeur</string>
+		<key>identifier</key>
+		<string>voyeur</string>
+		<key>title</key>
+		<string>Voyeur</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>vsevolod</string>
+		<key>title</key>
+		<string>Vsevolod</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>vvdinosaur</string>
+		<key>title</key>
+		<string>The Awesome Adventures of Victor Vector &amp; Yondo: The Last Dinosaur Egg</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>vvvampire</string>
+		<key>title</key>
+		<string>The Awesome Adventures of Victor Vector &amp; Yondo: The Vampire's Coffin</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wage</string>
+		<key>identifier</key>
+		<string>wage</string>
+		<key>title</key>
+		<string>WAGE</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>war</string>
+		<key>title</key>
+		<string>War</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>director</string>
+		<key>identifier</key>
+		<string>warlock</string>
+		<key>title</key>
+		<string>Spaceship Warlock</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>water</string>
+		<key>title</key>
+		<string>Freddi Fish and Luther's Water Worries</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agos</string>
+		<key>identifier</key>
+		<string>waxworks</string>
+		<key>title</key>
+		<string>Waxworks</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>ween</string>
+		<key>title</key>
+		<string>Ween: The Prophecy</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>sludge</string>
+		<key>identifier</key>
+		<string>welcome</string>
+		<key>title</key>
+		<string>Welcome Example</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>winnie</string>
+		<key>title</key>
+		<string>Winnie the Pooh in the Hundred Acre Wood</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>wintermute</string>
+		<key>title</key>
+		<string>Wintermute engine game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>wmedemo</string>
+		<key>title</key>
+		<string>Wintermute Engine Technology Demo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>wmedemo3d</string>
+		<key>title</key>
+		<string>Wintermute 3D Characters Technology Demo</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>gob</string>
+		<key>identifier</key>
+		<string>woodruff</string>
+		<key>title</key>
+		<string>The Bizarre Adventures of Woodruff and the Schnibble</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>xeen</string>
+		<key>identifier</key>
+		<string>worldofxeen</string>
+		<key>title</key>
+		<string>Might and Magic: World of Xeen</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>wtetris</string>
+		<key>title</key>
+		<string>Wilma Tetris</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>agi</string>
+		<key>identifier</key>
+		<string>xmascard</string>
+		<key>title</key>
+		<string>Xmas Card</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>zak</string>
+		<key>title</key>
+		<string>Zak McKracken and the Alien Mindbenders</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>scumm</string>
+		<key>identifier</key>
+		<string>zakloom</string>
+		<key>title</key>
+		<string>Zak McKracken &amp; Loom</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>zbang</string>
+		<key>title</key>
+		<string>Zbang! The Game</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>glk</string>
+		<key>identifier</key>
+		<string>zcode</string>
+		<key>title</key>
+		<string>ZCode (Infocom and Inform) Interactive Fiction games</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>zvision</string>
+		<key>identifier</key>
+		<string>zgi</string>
+		<key>title</key>
+		<string>Zork: Grand Inquisitor</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>wintermute</string>
+		<key>identifier</key>
+		<string>zilm</string>
+		<key>title</key>
+		<string>Zilm: A Game of Reflex</string>
+	</dict>
+	<dict>
+		<key>engine</key>
+		<string>zvision</string>
+		<key>identifier</key>
+		<string>znemesis</string>
+		<key>title</key>
+		<string>Zork Nemesis: The Forbidden Lands</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,78 @@
+{
+	"build_systems":
+	[
+		{
+			"file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+			"name": "Makefile",
+			"shell_cmd": "make",
+			"variants":
+			[
+				{
+					"name": "Build",
+					"shell_cmd": "make"
+				},
+				{
+					"name": "Run",
+					"shell_cmd": "make run"
+				},
+				{
+					"name": "Debug",
+					"shell_cmd": "make debug W=1"
+				},
+				{
+					"name": "Clean",
+					"shell_cmd": "make clean"
+				},
+				{
+					"name": "Distclean",
+					"shell_cmd": "make distclean"
+				},
+			],
+			"working_dir": "${project_path:${folder}}"
+		}
+	],
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"build/*",
+				"*.elf",
+				".DS_Store",
+				"*.a"
+			],
+			"folder_exclude_patterns":
+			[
+				".git",
+				"build"
+			],
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"ecc_c_flags":
+		[
+			"-std=c11"
+		],
+		"ecc_cpp_flags":
+		[
+			"-std=c++14"
+		],
+		"ecc_flags_sources":
+		[
+			{
+				"file": ".clang_complete",
+				"search_in": "${project_path:${folder}}"
+			}
+		],
+		"ecc_include_dirs":
+		[
+		],
+		"ecc_include_file_folder": true,
+		"ecc_include_file_parent_folder": false,
+		"rust_syntax_checking": true,
+		"tab_size": 4,
+		"translate_tabs_to_spaces": false
+	}
+}

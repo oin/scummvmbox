@@ -1,0 +1,14 @@
+-Wall
+-Wextra
+-Wno-unused-variable
+-Wno-unused-parameter
+-Wno-missing-declarations
+-Wno-unknown-pragmas
+-DVERSION="0"
+-DDEBUG=1
+-DTEST=1
+-UNDEBUG
+-fobjc-arc
+-I.
+-isystem/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks
+-isysroot/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
