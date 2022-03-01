@@ -3,8 +3,8 @@
 ScummVMBox is a bundler for your ScummVM games on macOS (10.9+).
 It allows you to create game bundles that you can double-click to directly launch the game.
 
-![readme/bundles.png]
-![readme/dock.png]
+![ScummVMBox bundles with their icons](readme/bundles.png)
+![Once the game is launched, ScummVM displays the icon of your game in the Dock](readme/dock.png)
 
 ## How to use
 
@@ -20,7 +20,7 @@ It allows you to create game bundles that you can double-click to directly launc
    - set a custom icon that will also appear on the Dock when you launch the game.
  - Click _Create_. A bundle is then created for your game, and it is revealed in the Finder.
 
-![readme/newbox.png]
+![The New Box From Folder window](readme/newbox.png)
 
 ## Creating game bundles manually
 
