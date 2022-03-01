@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# scummvmbox
 
-You can use the [editor on GitHub](https://github.com/oin/scummvmbox/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ScummVMBox is a bundler for your ScummVM games on macOS (10.9+).
+It allows you to create game bundles that you can double-click to directly launch the game.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![ScummVMBox bundles with their icons](https://github.com/oin/scummvmbox/raw/main/readme/bundles.png)
+![Once the game is launched, ScummVM displays the icon of your game in the Dock](https://github.com/oin/scummvmbox/raw/main/readme/dock.png)
 
-### Markdown
+## How to use
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - Download and install the _ScummVMBox_ app anywhere you like (`/Applications` is a good choice).
+ - Launch the _ScummVMBox_ app.
+ - Select the _File > New Box From Folder…_ menu item.
+ - Point it to the folder containing your game files, or select them directly.
+ - Find the game's name in the list; if available, an icon will be downloaded from the [official repository](https://github.com/scummvm/scummvm-icons).
+ - You can set up a few options, such as:
+   - whether to embed the savegames into the folder,
+   - create a specific configuration file to use, 
+   - force Full-screen Mode or subtitles,
+   - set a custom icon that will also appear on the Dock when you launch the game.
+ - Click _Create_. A bundle is then created for your game, and it is revealed in the Finder.
 
-```markdown
-Syntax highlighted code block
+![The New Box From Folder window](https://github.com/oin/scummvmbox/raw/main/readme/newbox.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Creating game bundles manually
 
-- Bulleted
-- List
+You can also create game bundles manually (or using another utility), and _ScummVMBox_ will just launch them for you.
 
-1. Numbered
-2. List
+ - Create a folder with the contents of the game.
+ - Inside this folder, create an _Info.plist_ file, and add the following items (using the [appropriate format](https://en.wikipedia.org/wiki/Property_list)) :
+   - `GameID` (_String_, mandatory): the identifier of the game in ScummVM (you can find it from the [compatibility list](https://www.scummvm.org/compatibility), from [this list](https://github.com/scummvm/scummvm-icons/blob/master/default/games.xml), or elsewhere)
+   - `Fullscreen` (_Boolean_, optional): whether to force full-screen mode (`true`) or windowed mode (`false`); if this key is absent, ScummVM will follow your global settings
+   - `Subtitles` (_Boolean_, optional): whether to force subtitles (`true`) or no subtitles (`false`); if this key is absent, ScummVM will follow your global settings
+ - If you create a folder named `ScummVM Savegames`, then ScummVM will use it to store its savegames; else it will follow your global settings
+ - If you want an icon to appear on the dock, then create a `ScummVM Extra` folder, and put your icon inside, named `<gameid>.png` (replace `<gameid>` with the identifier of the game in ScummVM)
+ - Finally, rename your game folder so as its extension is `.scummvmbox`. This will automatically turn it into a game bundle that you can double-click.
 
-**Bold** and _Italic_ and `Code` text
+## Acknowledgements
 
-[Link](url) and ![Image](src)
-```
+This project uses parts from [KSFileUtilities](https://github.com/karelia/KSFileUtilities).
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oin/scummvmbox/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks to:
+ - [Boxer](https://github.com/alunbestor/Boxer) for the game bundle idea
+ - The [ScummVM contributors](https://www.scummvm.org/credits/)
