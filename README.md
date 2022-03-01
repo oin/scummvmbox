@@ -13,7 +13,7 @@ It allows you to create game bundles that you can double-click to directly launc
  - Select the _File > New Box From Folder…_ menu item.
  - Point it to the folder containing your game files, or select them directly.
  - Find the game's name in the list; if available, an icon will be downloaded from the [official repository](https://github.com/scummvm/scummvm-icons).
- - You can set up a few options, such as:
+ - You can set up a few options (you might need to click _Options_ to see them), such as:
    - whether to embed the savegames into the folder,
    - create a specific configuration file to use, 
    - force Full-screen Mode or subtitles,
