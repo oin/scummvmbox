@@ -370,13 +370,13 @@
 				[arguments addObject:@"--no-fullscreen"];
 			}
 		}
-		n = [dict objectForKey:@"Fullscreen"];
+		n = [dict objectForKey:@"Subtitles"];
 		if(n != nil) {
 			BOOL b = [n boolValue];
 			if(b) {
-				[arguments addObject:@"--fullscreen"];
+				[arguments addObject:@"--subtitles"];
 			} else {
-				[arguments addObject:@"--no-fullscreen"];
+				[arguments addObject:@"--no-subtitles"];
 			}
 		}
 	}
