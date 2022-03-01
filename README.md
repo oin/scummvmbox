@@ -35,6 +35,20 @@ You can also create game bundles manually (or using another utility), and _Scumm
  - If you want an icon to appear on the dock, then create a `ScummVM Extra` folder, and put your icon inside, named `<gameid>.png` (replace `<gameid>` with the identifier of the game in ScummVM)
  - Finally, rename your game folder so as its extension is `.scummvmbox`. This will automatically turn it into a game bundle that you can double-click.
 
+## How to build from source
+
+```bash
+make
+```
+
+The application will be generated in `build/ScummVMBox.app`.
+
+You can also use the following Make targets:
+
+ - `make run` to compile and launch the application
+ - `make debug` to compile and debug a separate debug build
+ - `make clean` to remove the build folder
+
 ## Acknowledgements
 
 This project uses parts from [KSFileUtilities](https://github.com/karelia/KSFileUtilities).
